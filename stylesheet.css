@@ -1,3 +1,11 @@
+/* CSS Stylesheet for Techie-Saurav.github.io */
+
 body {
-    font-family: 'Princess Sofia';font-size: 22px;
+  background-color: 'Black';
+  font-family: 'Princess';
+  font-size: 22px;
+}
+
+p.content {
+  color: 'cyan';
 }
